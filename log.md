@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+# MAIN GOALS:
+- Deep dive into web development.
+- Getting to know CSS, JS better.
+- Getting to know FE dev tools & trends. (Task Automations, Dev tools, Debuggers, Unit testing).
+- Learning React & Redux through projects.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: June 26, 2020
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started with Udacity FE nanodegree. 
+- Explored HTML5 fundamentals.
+- Got to learn about some new HTML tags (Aside, Article, WBR, Difference between tags like em vs i, strong vs bold etc...)
+- Started a project: [Personal Blog Website](https://github.com/pranshu1402/myBlog).
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** There's so much to explore in HTML5 which on effective usage leads to web accessible content.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Personal Blog Website](https://github.com/pranshu1402/myBlog)
